@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fenerbahce/static/css/main.2266d85a.css",
+    "main.js": "/fenerbahce/static/js/main.ae15d73d.js",
+    "static/media/jesus.png": "/fenerbahce/static/media/jesus.5d7f4c610be970461a5d.png",
+    "index.html": "/fenerbahce/index.html",
+    "main.2266d85a.css.map": "/fenerbahce/static/css/main.2266d85a.css.map",
+    "main.ae15d73d.js.map": "/fenerbahce/static/js/main.ae15d73d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2266d85a.css",
+    "static/js/main.ae15d73d.js"
+  ]
+}
