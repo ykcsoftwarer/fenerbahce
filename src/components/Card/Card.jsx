@@ -1,5 +1,5 @@
 import React from 'react'
-import data from '../../assests/data'
+// import data from '../../assests/data'
 import "./Card.css"
 
 
